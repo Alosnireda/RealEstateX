@@ -12,6 +12,9 @@ path = "contracts/SmartProperty.clar"
 [contracts."SmartProperty.clar"]
 path = "contracts/SmartProperty.clar.clar"
 
+[contracts.propestatenft]
+path = "contracts/propestatenft.clar"
+
 [contracts.realtycontract]
 path = "contracts/realtycontract.clar"
 

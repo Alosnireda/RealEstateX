@@ -1,5 +1,5 @@
 
-;; realtycontract
+;; propestatenft
 ;; <add a description here>
 
 ;; constants
